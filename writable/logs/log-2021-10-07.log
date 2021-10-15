@@ -1,0 +1,6 @@
+CRITICAL - 2021-10-07 03:26:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 E:\Xampp\htdocs\Dinamik-Web-main\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 E:\Xampp\htdocs\Dinamik-Web-main\spark(45): require('E:\\Xampp\\htdocs...')
+#4 {main}

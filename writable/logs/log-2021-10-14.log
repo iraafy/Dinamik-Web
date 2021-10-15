@@ -1,0 +1,24 @@
+CRITICAL - 2021-10-14 08:53:08 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php on line 35 and at least 2 expected
+#0 E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('Webinar::index')
+#1 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(689): require('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\Dinamik-Web-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\Xampp\htdocs\Dinamik-Web-main\system\Commands\Server\rewrite.php(43): require_once('E:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-14 08:53:10 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php on line 35 and at least 2 expected
+#0 E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('Webinar::index')
+#1 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(689): require('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\Dinamik-Web-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\Xampp\htdocs\Dinamik-Web-main\system\Commands\Server\rewrite.php(43): require_once('E:\\Xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-10-14 08:53:13 --> Too few arguments to function CodeIgniter\Router\RouteCollection::get(), 1 passed in E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php on line 35 and at least 2 expected
+#0 E:\Xampp\htdocs\Dinamik-Web-main\app\Config\Routes.php(35): CodeIgniter\Router\RouteCollection->get('Webinar::index')
+#1 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(689): require('E:\\Xampp\\htdocs...')
+#2 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 E:\Xampp\htdocs\Dinamik-Web-main\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\Xampp\htdocs\Dinamik-Web-main\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 E:\Xampp\htdocs\Dinamik-Web-main\system\Commands\Server\rewrite.php(43): require_once('E:\\Xampp\\htdocs...')
+#6 {main}
