@@ -42,13 +42,18 @@
 		<div class="container mt-5 pt-5">
 			<div class="row p-3" style="text-align: justify;">
 				<div class="col-lg-4 col-md-6 col-sm-12 col-12">
-					<div class="circle-img flex"></div>
+					<div class="flex">
+						<img src="/assets/lombaPoster.png" width="80%" alt="hilang">
+					</div>
 					<br>
-					<h5 class="flex pb-5">
+					<h4 class="flex pb-5">
 						<strong>
 							Poster Competition
 						</strong>
-					</h5>
+					</h4>
+					<div class="flex pb-3">
+						<a href="https://bit.ly/PendaftaranLombaPosterDinamik-16"><button type="button" class="btn btn-danger btn-lg">Daftar</button></a>
+					</div>
 				</div>
 				<div class="col-lg-8 col-md-6 col-sm-12 col-12">
 					<h5>
@@ -57,7 +62,7 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam. <br><br> </p>
+					<p>saatnya kamu menunjukan keahlianmu dalam lomba poster dinamik 16, buatlah poster terbaik dengan tema “Motivasi, Inovasi dan teknologi”. ayo tunggu apalagi, submit karya terbaikmu.<br><br> </p>
 
 					<h5>
 						<strong>
@@ -65,16 +70,19 @@
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit <br><br></p>
+					<p><strong> Pendaftaran :</strong> 31 Oktober 2021 s/d 7 November 2021<br>
+					<strong> Pengumpulan karya :</strong> 15 November 2021  s/d 30 November 2021</p>
 
+					<br>
 					<h5>
 						<strong>
 							Rules Of Commpetition
 						</strong>
 					</h5>
 					<br>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p>
+					<!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo modi, ab totam atque ad maxime, architecto excepturi assumenda sunt veritatis voluptatem aliquam impedit reiciendis fuga possimus magni ea numquam nam.</p>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio perferendis sed sunt eum ab odio magnam? Dicta doloremque qui quidem! Soluta minus voluptatem nisi sit nobis commodi, aspernatur dolorem quas?</p> -->
+					<button type="button" class="btn btn-danger btn-lg">Submit</button>
 				</div>
 			</div>
 		</div>
